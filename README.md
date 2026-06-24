@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
