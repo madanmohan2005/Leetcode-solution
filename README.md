@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0136-single-number) |
@@ -44,4 +45,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
