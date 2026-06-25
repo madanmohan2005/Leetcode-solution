@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0704-binary-search](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0054-spiral-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
