@@ -24,6 +24,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0009-palindrome-number) |
+| [0367-valid-perfect-square](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,5 +60,6 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0035-search-insert-position) |
+| [0367-valid-perfect-square](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
