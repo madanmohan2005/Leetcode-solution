@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0075-sort-colors) |
@@ -57,5 +58,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
