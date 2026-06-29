@@ -9,9 +9,9 @@ class Solution {
         char temp = s[i];
         s[i]=s[j];
         s[j]=temp;
-        i++;
-        j--;
-        solve( s, i,j);
+        // i++;
+        // j--;
+        solve( s, i+1, j-1);
 
     }
     public void reverseString(char[] s) {
