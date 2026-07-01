@@ -36,6 +36,7 @@
 | [0027-remove-element](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -81,4 +82,8 @@
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/madanmohan2005/Leetcode-solution/tree/master/3005-count-elements-with-maximum-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
