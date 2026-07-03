@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/madanmohan2005/Leetcode-solution/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -36,6 +37,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
@@ -87,6 +89,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
