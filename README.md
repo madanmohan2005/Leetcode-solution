@@ -83,6 +83,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
 | ------- |
