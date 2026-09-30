@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0054-spiral-matrix) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/madanmohan2005/Leetcode-solution/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [0234-palindrome-linked-list](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/madanmohan2005/Leetcode-solution/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Stack
 |  |
 | ------- |
