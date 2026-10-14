@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0443-string-compression) |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
