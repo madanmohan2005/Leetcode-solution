@@ -17,6 +17,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0704-binary-search) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/madanmohan2005/Leetcode-solution/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
@@ -26,6 +27,7 @@
 | [0141-linked-list-cycle](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/madanmohan2005/Leetcode-solution/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
@@ -121,6 +123,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
@@ -148,4 +151,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
