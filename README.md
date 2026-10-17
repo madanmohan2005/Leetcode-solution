@@ -91,6 +91,7 @@
 | [0071-simplify-path](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -123,12 +124,14 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0394-decode-string) |
 ## Bracket Sequences
 |  |
 | ------- |
