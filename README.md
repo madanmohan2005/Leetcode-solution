@@ -18,6 +18,7 @@
 | [0136-single-number](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/madanmohan2005/Leetcode-solution/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -127,6 +128,7 @@
 | [0234-palindrome-linked-list](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
@@ -160,5 +162,6 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
