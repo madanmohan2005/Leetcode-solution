@@ -22,6 +22,7 @@
 | [0682-baseball-game](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0739-daily-temperatures) |
+| [1472-design-browser-history](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1472-design-browser-history) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/madanmohan2005/Leetcode-solution/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -121,6 +122,7 @@
 | [0234-palindrome-linked-list](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1472-design-browser-history) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/madanmohan2005/Leetcode-solution/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Stack
 |  |
@@ -138,6 +140,7 @@
 | [0739-daily-temperatures](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1472-design-browser-history](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -171,4 +174,16 @@
 | [0496-next-greater-element-i](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0739-daily-temperatures) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
