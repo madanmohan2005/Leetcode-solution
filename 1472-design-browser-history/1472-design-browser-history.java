@@ -10,11 +10,13 @@ class BrowserHistory {
     
     public void visit(String url) {
         currHistory.push(url);
-        while(forHistory.size()>0)
-        {
-            forHistory.pop();
-        }
-        
+        // while(!forHistory.isEmpty()
+        // {
+        //   forHistory.pop();
+        // }
+              
+              //u can also do
+      forHistory = new ArrayDeque<>();
     }
     
     public String back(int steps) {
