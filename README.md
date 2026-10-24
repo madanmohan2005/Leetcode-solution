@@ -99,6 +99,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0844-backspace-string-compare) |
@@ -134,6 +135,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0682-baseball-game) |
@@ -171,6 +173,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0739-daily-temperatures) |
@@ -186,4 +189,8 @@
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1472-design-browser-history) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
