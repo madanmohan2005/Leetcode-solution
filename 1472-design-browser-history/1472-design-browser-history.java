@@ -1,6 +1,7 @@
 class BrowserHistory {
     Deque<String> currHistory;
     Deque<String> forHistory;
+    
 
     public BrowserHistory(String homepage) {
         currHistory = new ArrayDeque<>();
@@ -10,47 +11,44 @@ class BrowserHistory {
     
     public void visit(String url) {
         currHistory.push(url);
-        // while(!forHistory.isEmpty()
+        // while(!forHistory.isEmpty())
         // {
-        //   forHistory.pop();
-        // }
-              
-              //u can also do
-      forHistory = new ArrayDeque<>();
+        //     forHistory.pop();
+        // } 
+             //or
+        forHistory = new ArrayDeque<>();
+        
     }
     
     public String back(int steps) {
-        while(steps > 0)
+        while(steps >0)
         {
-            if(currHistory.size()>1)
-            {
-                String top = currHistory.pop();
-                forHistory.push(top);
-            }
-            else{
-                //sirf homepage h currHistory stack me
-                break;
-            }
-            steps --;
-        }
+           if(currHistory.size()>1){
+           String top = currHistory.pop();
+           forHistory.push(top);
+           }
+           else{
+            break;
+           }
+           steps--;
+        }        
         return currHistory.peek();
     }
     
     public String forward(int steps) {
-        while(steps > 0)
+        while(steps >0 )
         {
-            if(forHistory.size()>0)
-            {
-                String top = forHistory.pop();
-                currHistory.push(top);
+          if(forHistory.size()>0 ){
+            String top = forHistory.pop();
+            currHistory.push(top);
             }
             else{
-                //forHistory stack khali hai
                 break;
             }
-            steps --;
+            steps--;
         }
         return currHistory.peek();
+        
     }
 }
 
