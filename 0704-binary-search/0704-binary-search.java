@@ -1,23 +1,24 @@
 class Solution {
     public int search(int[] nums, int target) {
-        int start=0;
         int n=nums.length;
-        int end=n-1;
-        while(start<=end)
+        int low=0;
+        int high=n-1;
+        
+        while(low<=high)
         {
-            //using mid find target
-           int mid=start+(end-start)/2;
-            if(nums[mid]==target)
+            int mid = low + (high - low)/2;
+            if(target==nums[mid])
             {
                 return mid;
             }
-            else if(nums[mid]>target){
-                end=mid-1;
+            else if(target>nums[mid])
+            {
+                low = mid+1;
             }
             else{
-                start=mid+1;
+                high = mid-1;
             }
         }
-       return -1;
+        return -1;
     }
 }
