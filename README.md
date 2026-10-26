@@ -22,6 +22,7 @@
 | [0682-baseball-game](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1472-design-browser-history](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1472-design-browser-history) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/madanmohan2005/Leetcode-solution/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
@@ -94,6 +95,7 @@
 | [0367-valid-perfect-square](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## String
 |  |
 | ------- |
