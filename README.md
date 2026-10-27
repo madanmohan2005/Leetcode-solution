@@ -12,6 +12,7 @@
 | [0040-combination-sum-ii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
