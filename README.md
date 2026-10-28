@@ -26,6 +26,7 @@
 | [0739-daily-temperatures](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1472-design-browser-history](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1472-design-browser-history) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/madanmohan2005/Leetcode-solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/madanmohan2005/Leetcode-solution/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -60,11 +61,13 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/madanmohan2005/Leetcode-solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0217-contains-duplicate) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/madanmohan2005/Leetcode-solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -100,6 +103,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/madanmohan2005/Leetcode-solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
 | ------- |
