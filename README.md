@@ -20,6 +20,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0503-next-greater-element-ii) |
@@ -103,6 +104,7 @@
 | [0035-search-insert-position](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0704-binary-search) |
