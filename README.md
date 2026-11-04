@@ -24,6 +24,7 @@
 | [0217-contains-duplicate](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0739-daily-temperatures) |
@@ -107,6 +108,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/madanmohan2005/Leetcode-solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
