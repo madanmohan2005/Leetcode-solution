@@ -30,6 +30,7 @@
 | [0739-daily-temperatures](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1472-design-browser-history](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1472-design-browser-history) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/madanmohan2005/Leetcode-solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/madanmohan2005/Leetcode-solution/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -113,6 +114,7 @@
 | [0704-binary-search](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/madanmohan2005/Leetcode-solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
