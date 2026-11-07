@@ -32,6 +32,7 @@
 | [0875-koko-eating-bananas](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1472-design-browser-history](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1472-design-browser-history) |
+| [1539-kth-missing-positive-number](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1539-kth-missing-positive-number) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/madanmohan2005/Leetcode-solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/madanmohan2005/Leetcode-solution/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
@@ -115,6 +116,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1539-kth-missing-positive-number](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1539-kth-missing-positive-number) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/madanmohan2005/Leetcode-solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
