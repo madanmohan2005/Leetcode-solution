@@ -99,6 +99,7 @@
 | [0054-spiral-matrix](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0844-backspace-string-compare) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/madanmohan2005/Leetcode-solution/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Binary Search
 |  |
@@ -131,6 +132,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Backtracking
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | [0844-backspace-string-compare](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1472-design-browser-history) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Recursion
 |  |
 | ------- |
