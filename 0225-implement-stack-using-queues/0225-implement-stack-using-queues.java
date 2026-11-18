@@ -1,24 +1,58 @@
-class MyStack {
+// class MyStack {
+//     Queue<Integer> q1;
+//     Queue<Integer> q2;
+
+//     public MyStack() {
+//         q1 = new LinkedList<>();
+//         q2 =new LinkedList<>();
+//     }
+    
+//     public void push(int x) {
+//         //step-1 add
+//         q2.offer(x);
+//         //delete 
+//         while(!q1.isEmpty())
+//         {
+//             q2.offer(q1.poll());
+//         }
+//         //swap
+//         Queue<Integer> temp =q1;
+//         q1=q2;
+//         q2 = temp;
+        
+//     }
+    
+//     public int pop() {
+//         return q1.poll();
+//     }
+    
+//     public int top() {
+//         return q1.peek();
+//     }
+    
+//     public boolean empty() {
+//         return q1.isEmpty();
+//     }
+// }
+
+     //we can also implement stack using queue
+ class MyStack {
     Queue<Integer> q1;
-    Queue<Integer> q2;
 
     public MyStack() {
         q1 = new LinkedList<>();
-        q2 =new LinkedList<>();
     }
     
     public void push(int x) {
         //step-1 add
-        q2.offer(x);
+        q1.offer(x);
+        int n=q1.size()-1;
         //delete 
-        while(!q1.isEmpty())
+      for(int i=0 ; i<n ;i++)
         {
-            q2.offer(q1.poll());
+            int temp=q1.poll();
+            q1.offer(temp);
         }
-        //swap
-        Queue<Integer> temp =q1;
-        q1=q2;
-        q2 = temp;
         
     }
     
@@ -34,12 +68,4 @@ class MyStack {
         return q1.isEmpty();
     }
 }
-
-/**
- * Your MyStack object will be instantiated and called as such:
- * MyStack obj = new MyStack();
- * obj.push(x);
- * int param_2 = obj.pop();
- * int param_3 = obj.top();
- * boolean param_4 = obj.empty();
- */
+    
