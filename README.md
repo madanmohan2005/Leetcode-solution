@@ -214,6 +214,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -222,6 +223,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1472-design-browser-history) |
 ## Greedy
 |  |
@@ -240,4 +242,5 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
