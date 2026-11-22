@@ -26,6 +26,7 @@
 | [0496-next-greater-element-i](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0739-daily-temperatures) |
@@ -249,6 +250,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
