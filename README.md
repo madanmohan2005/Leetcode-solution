@@ -46,6 +46,7 @@
 | [0141-linked-list-cycle](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0424-longest-repeating-character-replacement](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/madanmohan2005/Leetcode-solution/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
@@ -133,6 +134,7 @@
 | [0344-reverse-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0844-backspace-string-compare) |
@@ -254,6 +256,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
