@@ -32,6 +32,7 @@
 | [0739-daily-temperatures](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1472-design-browser-history](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1472-design-browser-history) |
@@ -119,6 +120,7 @@
 | [0704-binary-search](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1539-kth-missing-positive-number) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/madanmohan2005/Leetcode-solution/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -253,6 +255,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Heap (Priority Queue)
@@ -267,4 +270,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/madanmohan2005/Leetcode-solution/tree/master/0239-sliding-window-maximum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/madanmohan2005/Leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
