@@ -1,23 +1,19 @@
 class Solution {
-    public static void solve(char[] s ,int i ,int j)
-    {
-        if(i>=j)
-        {
-            return ;
-        }
-        //swap an array
-        char temp = s[i];
-        s[i]=s[j];
-        s[j]=temp;
-        // i++;
-        // j--;
-        solve( s, i+1, j-1);
-
-    }
     public void reverseString(char[] s) {
-        int i=0;
-        int j=s.length-1;
-        solve (s, i,j);
+        reverse(s, 0, s.length - 1);
+    }
 
+    private void reverse(char[] s, int left, int right) {
+        
+        if (left >= right) {
+            return;
+        }
+
+        char temp = s[left];
+        s[left] = s[right];
+        s[right] = temp;
+
+        
+        reverse(s, left + 1, right - 1);
     }
 }
